@@ -6,7 +6,7 @@ publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: advanced-academic-search-boolean-operators-truncation-field-limits
 ogImage: 'https://img.ulec.com.cn/教育-学术搜索/advanced-academic-search-boolean-operators-truncation-field-limits-2026-1880x1253.jpg'
-tags: []
+tags:
   - '学术搜索'
   - '文献检索'
   - '布尔运算符'

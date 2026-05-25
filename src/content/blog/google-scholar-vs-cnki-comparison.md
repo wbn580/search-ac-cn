@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: google-scholar-vs-cnki-comparison
 ogImage: 'https://img.ulec.com.cn/教育-学术搜索/google-scholar-vs-cnki-comparison-2026-1880x1253.jpg'
-tags: []
+tags:
   - '谷歌学术'
   - '中国知网'
   - '文献检索'
